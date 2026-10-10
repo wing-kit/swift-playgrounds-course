@@ -31,10 +31,8 @@ print("Hello, Wing Kit")
 // print 可以一次印多個值（用空格隔開）
 print("課程", "基礎", "B01")
 
-// 用 
- 換行（喺字串入面）
-print("第一行
-第二行")
+// 用 \n 換行（喺字串入面）
+print("第一行\n第二行")
 ```
 
 對應 snippet：`snippets/B01-hello-print.swift`

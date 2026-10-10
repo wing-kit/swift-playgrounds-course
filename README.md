@@ -1,5 +1,10 @@
 # Swift Playgrounds 教材（Mac＋iPad）
 
+> **語言／Language**
+> - **粵語（預設）** ← 你而家睇緊呢份
+> - [繁體中文（書面語）](zh-Hant/README.md)
+> - [English](en/README.md)
+
 專為 **Wing Kit Leung** 而設：喺 **Swift Playgrounds**（Mac 或 iPad）由零學到一個可跑嘅 Mini Todo App。Mac 同 iPad 各有**獨立**軌道（步驟唔共用）。
 
 語氣：粵語書面語，步驟清楚，每課附完整可貼 code 同練習。
@@ -87,7 +92,9 @@
 
 ```
 swift-playgrounds-course/
-├── README.md                 ← 你而家睇緊呢份（總覽）
+├── README.md                 ← 粵語總覽（預設）
+├── zh-Hant/                  ← 繁體中文（書面語）平行教材
+├── en/                       ← English parallel track
 ├── CHEATSHEET.md             ← Mac 進階／SwiftUI 速查
 ├── basics/                   ← ① Mac 基礎
 │   ├── README.md
